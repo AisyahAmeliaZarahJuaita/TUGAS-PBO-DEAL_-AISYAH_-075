@@ -24,7 +24,7 @@ Prinsip inheritance pada OOP adalah di mana kita dapat membentuk class baru yang
 3. Abstract Class
 Seperti namanya, prinsip abstract class OOP adalah class-class yang memiliki informasi abstrak dan metode-metode dari sekumpulan data. Abstract Class tidak bisa di ubah dan  berlaku juga sebagai kerangka dalam penciptaan berbagai subclass (berperan seperti Superclass yang di bahas di konsep Inheritance). Suatu abstract class memiliki informasi dan metode yang dapat di turunkan ke subclass-nya. Kemudian, seluruh subclass tersebut akan mengikuti apa saja metode turunan dari abstract class tersebut.
 4. Polymorphism
-Polymorphism adalah kemampuan suatu pesan atau data untuk diproses lebih dari satu bentuk. Salah satu ciri utama dari OOP adalah adanya polymorphism. Tanpa hal ini, suatu pemrograman tidak bisa dikatakan sebagai OOP. Polymorphism sendiri adalah konsep di mana suatu objek yang berbeda-beda dapat diakses melalui interface yang sama.
+adalah kemampuan suatu pesan atau data untuk diproses lebih dari satu bentuk. Salah satu ciri utama dari OOP adalah adanya polymorphism. Tanpa hal ini, suatu pemrograman tidak bisa dikatakan sebagai OOP. Polymorphism sendiri adalah konsep di mana suatu objek yang berbeda-beda dapat diakses melalui interface yang sama.
 5. Pembuatan kelas dan objek
 Dalam OOP, kita bisa membuat kelas sebagai blueprint atau cetak biru untuk objek. Kemudian, dari kelas tersebut, kita bisa membuat objek yang merupakan instansi dari kelas tersebut. Misalnya, jika kita membuat kelas Mobil, maka kita bisa membuat beberapa objek seperti mobil sedan, mobil pick-up, mobil sport, dan lain sebagainya.
 
